@@ -87,3 +87,5 @@ Este programa realiza lo siguiente:
 -Configuración obtenida exitosamente.
 
 
+# Proyecto 2: PRUEBA_RECIBIDO_LORA
+## Lectura de configuración del módulo LoRa E32 con Arduino
