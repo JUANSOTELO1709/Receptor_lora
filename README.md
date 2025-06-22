@@ -1,7 +1,7 @@
 ### Comunicacion transmision
+Esta carpeta incluye diversos ejemplos del uso de LORA como Receptor
 
 
-3 EJEMPLOS DE TRANSMISOR CON 
 LORA E32
 
 
